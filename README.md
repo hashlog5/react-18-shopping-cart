@@ -1,0 +1,1 @@
+This repo is from the [React 18 Shopping Cart For Absolute Beginners [2022]](https://youtu.be/KK0B8AETwew) by [@Coding with Basir](https://github.com/basir/react-course-final)
